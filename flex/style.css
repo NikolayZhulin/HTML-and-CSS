@@ -1,0 +1,48 @@
+
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.menu{
+    display: flex;
+flex-direction: column;
+    justify-content: start;
+    border: 1px solid blue;
+    width: 700px;
+    background: rgb(103, 103, 201);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+   padding: 10px;
+}
+
+a:hover{
+    background: white;
+    color:rgb(103, 103, 201);
+}
+
+/* .wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.big-box{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+.box{
+    width: 150px;
+height: 150px;
+border: 1px solid black;
+
+} */
