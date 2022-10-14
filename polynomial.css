@@ -1,0 +1,12 @@
+.formula{
+    font-style: italic;
+}
+
+.formula sup, .formula sub{
+    font-style: normal;
+    color: red;
+}
+
+.formula sup{
+    color: blue;
+}

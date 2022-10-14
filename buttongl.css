@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.glamur-button{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 600;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    outline: 2px solid #f49af1;
+    background: linear-gradient(180deg, rgb(244, 154, 241), rgb(245, 206, 246), rgb(244, 154, 241));
+}

@@ -1,0 +1,8 @@
+.vdavl-gradient{
+    border-top: 2px solid gray;
+    border-left: 2px solid gray;
+    border-radius: 3px;
+    border-bottom: none;
+    border-right: none;
+    background: linear-gradient(0deg, rgb(141, 137, 141), rgb(255, 255, 255) 10%);
+}

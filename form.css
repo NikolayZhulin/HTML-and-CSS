@@ -1,0 +1,15 @@
+fieldset{
+    width: 800px;
+    height: 350px;
+    background-image: url("../img/program2022.jpg") ;
+color:orangered;
+}
+
+input{
+    margin: 10px;
+}
+
+div{
+    width: 40%;
+ margin-left: 200px;
+}
